@@ -29,4 +29,4 @@ TensorFlow 2.4
 OpenCV
 NumPy
 Credits
-This project was developed by [Your Name] as part of [Your Institution]'s deep learning course. The TSL dataset used in this project was collected and annotated by [Dataset Source].
+This project was put together as part of my deep learning course. The TSL dataset used in this project was collected and annotated by be influenced by tunisian tiktokers as shown in the videos .
